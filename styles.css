@@ -1,0 +1,60 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  background: none;
+  list-style-type: none;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+html {
+  background-color: #c0dce5;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: bolder;
+  color: blue;
+  text-align: center;
+}
+h2 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.MainContent {
+  margin: 50px;
+  width: 1400px;
+}
+img {
+  width: 400px;
+  height: 300px;
+  border-radius: 75px;
+  padding: 1rem;
+}
+.ToC {
+  width: 300px;
+  border-radius: 30px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #728e97;
+  background-color: #b9dde9;
+}
+.ToCh2 {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 600;
+  background: none;
+}
+.ImgCenter {
+  text-align: center;
+}
+.Img {
+  display: inline-block;
+}
+.ReturnLink {
+  text-align: center;
+}
